@@ -1,3 +1,4 @@
+#create function -> define argument = population
 def count_living_per_year(population: list[tuple[int, int]]) -> dict[int, int]:
   living_per_year = {}
   for birth, death in population:
