@@ -1,1 +1,3 @@
-# python-developer
+# Python Developer
+
+paradigm objects and classes
